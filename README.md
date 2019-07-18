@@ -4,6 +4,10 @@ This repo is about implementing feature selection with KNN.
 
 # Algorithms used:
 
-1.Forward Selection
-2.Backward Elimination
-3.Pruning Algorithm
+## Forward Selection
+![Forward Selection](https://github.com/harishgonnabattula/FeatureSelectionKNN/blob/master/images/Forward.png)
+## Backward Elimination
+![Backward Selection](https://github.com/harishgonnabattula/FeatureSelectionKNN/blob/master/images/Backward.png)
+
+## Pruning Algorithm
+![Pruning](https://github.com/harishgonnabattula/FeatureSelectionKNN/blob/master/images/Pruning.png)
